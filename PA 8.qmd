@@ -1,4 +1,5 @@
 ---
+author: Joshua Maxin, Faran Igani, Kevin Flores, Andrew Martinez
 title: "PA 8 Quarto"
 format: html
 editor: visual
